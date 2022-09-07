@@ -17,3 +17,15 @@ Kansas Airport
 * colden pound.
 
 [AboutMe](AboutMe.md)
+
+- - - 
+
+# Tables
+Favourite places to visit in USA
+
+| City | Location | Time |
+| --- | --- | ---|
+| Texas | River walk | 3hours |
+| Newjersy | Coastline | 1hour|
+| Kansas | overland park | 2 hours |
+| Florida | miami Beach | 4 hours |
