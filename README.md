@@ -13,3 +13,9 @@ The **Kansas City Museum is a history museum.** It preserves, interprets, and ce
 3. Take right from the amoziona we will get st joseph and then platte city.
 4. Take left from the platte city and straight to the north kansas.
 5. From north kansas take right we will get kansas city museum. 
+
+### UNORDERED LIST
+---
+* overland park
+* North west missouri state university
+* colden pound.
