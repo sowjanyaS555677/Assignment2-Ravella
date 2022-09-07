@@ -29,3 +29,8 @@ Favourite places to visit in USA
 | Newjersy | Coastline | 1hour|
 | Kansas | overland park | 2 hours |
 | Florida | miami Beach | 4 hours |
+
+- - -
+#  Pithy Quotes
+> “We cannot solve problems with the kind of thinking we employed when we came up with them.” *--Albert Einstein*
+> “Learn as if you will live forever, live like you will die tomorrow.” *--Mahatma Gandhi*
